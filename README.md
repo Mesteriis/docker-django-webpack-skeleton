@@ -3,7 +3,7 @@ Django Skeleton W/ Docker Dev & Production W/ Webpack W/ BabelJS W/ Sass W/ Post
 
 You can bootstrap your next django project with command
 
-> django-admin.py startproject --template=https://github.com/phpdude/docker-django-webpack-skeleton/archive/master.zip -e "ini,yml,conf,json" yoursite
+> django-admin.py startproject --template=https://github.com/Mesteriis/docker-django-webpack-skeleton/archive/master.zip -e "ini,yml,conf,json" yoursite
 
 You can use Fabric to deploy your project to any docker supported env.
 
