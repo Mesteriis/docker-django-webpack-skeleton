@@ -5,6 +5,10 @@ You can bootstrap your next django project with command
 
 > django-admin.py startproject --template=https://github.com/Mesteriis/docker-django-webpack-skeleton/archive/master.zip -e "ini,yml,conf,json" yoursite
 
+Then you need to run the startVenv.sh script to prepare the virtual environment
+
+> yoursite_path/startVenv.sh
+
 You can use Fabric to deploy your project to any docker supported env.
 
 > fab build deploy
