@@ -1,5 +1,5 @@
 # docker-django-webpack-skeleton v2.0.0
-Django Skeleton W/ Docker Dev & Production W/ Webpack W/ BabelJS W/ Sass W/ PostgreSQL by @phpdude
+Django Skeleton W/ Docker Dev & Production W/ Webpack W/ BabelJS W/ Sass W/ PostgreSQL by @phpdude & @Mesteriis
 
 You can bootstrap your next django project with command
 
